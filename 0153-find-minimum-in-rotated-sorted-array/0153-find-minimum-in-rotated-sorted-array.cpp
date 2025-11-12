@@ -7,6 +7,12 @@ public:
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
+            if (nums[left] <= nums[right]) {
+                // if search space is always sorted
+                ans = min(ans, nums[left]);
+                break;
+            }
+
             if (nums[mid] >= nums[left]) {
                 ans = min(ans, nums[left]);
                 left = mid + 1;
