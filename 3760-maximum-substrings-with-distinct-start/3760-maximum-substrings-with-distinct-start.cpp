@@ -1,14 +1,15 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_set<char> st;
-        int cnt = 0;
+        vector<bool> used(256, false);
+        int count = 0;
+
         for (char c : s) {
-            if (st.find(c) == st.end()) {
-                cnt++;
-                st.insert(c);
+            if (!used[c]) {
+                used[c] = true;
+                count++;
             }
         }
-        return cnt;
+        return count;
     }
 };
