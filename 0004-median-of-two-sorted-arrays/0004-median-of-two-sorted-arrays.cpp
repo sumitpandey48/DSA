@@ -1,33 +1,42 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> nums3;
         int a = nums1.size(), b = nums2.size();
-        int i = 0, j = 0;
+        if (a > b) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
 
-        while (i < a && j < b) {
-            if (nums1[i] < nums2[j]) {
-                nums3.push_back(nums1[i]);
-                i++;
+        int low = 0, high = a;
+        while (low <= high) {
+            int mid1 = (low + high) >> 1;
+            int mid2 = (a + b + 1) / 2 - mid1;
+            int e = a + b;
+            int l1 = INT_MIN, l2 = INT_MIN;
+            int r1 = INT_MAX, r2 = INT_MAX;
+
+            if (mid1 < a) {
+                r1 = nums1[mid1];
+            }
+            if (mid2 < b) {
+                r2 = nums2[mid2];
+            }
+            if (mid1 - 1 >= 0) {
+                l1 = nums1[mid1 - 1];
+            }
+            if (mid2 - 1 >= 0) {
+                l2 = nums2[mid2 - 1];
+            }
+            if (l1 <= r2 && l2 <= r1) {
+                if (e % 2 == 1) {
+                    return max(l1, l2);
+                }
+                return ((double(max(l1, l2) + min(r1, r2)))) / 2.0;
+            } else if (l1 > r2) {
+                high = mid1 - 1;
             } else {
-                nums3.push_back(nums2[j]);
-                j++;
+                low = mid1 + 1;
             }
         }
-
-        while (i < a) {
-            nums3.push_back(nums1[i]);
-            i++;
-        }
-        while (j < b) {
-            nums3.push_back(nums2[j]);
-            j++;
-        }
-        int c = a + b;
-        if (c % 2 == 1) {
-            return nums3[c / 2];
-        } else {
-            return (nums3[c / 2 - 1] + nums3[c / 2]) / 2.0;
-        }
+        return 0;
     }
 };
