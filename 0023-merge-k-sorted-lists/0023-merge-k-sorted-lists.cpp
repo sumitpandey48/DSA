@@ -10,30 +10,35 @@
  */
 class Solution {
 public:
-    ListNode* convertArray2LL(vector<int>& arr) {
+    ListNode* merge2SortedLL(ListNode* list1, ListNode* list2) {
         ListNode* dummy = new ListNode(-1);
         ListNode* curr = dummy;
 
-        for (int i = 0; i < arr.size(); i++) {
-            curr->next = new ListNode(arr[i]);
-
+        while (list1 && list2) {
+            if (list1->val <= list2->val) {
+                curr->next = list1;
+                list1 = list1->next;
+            } else {
+                curr->next = list2;
+                list2 = list2->next;
+            }
             curr = curr->next;
+        }
+        if (list1) {
+            curr->next = list1;
+        } else {
+            curr->next = list2;
         }
         return dummy->next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int> arr;
-        for (int i = 0; i < lists.size(); i++) {
-            ListNode* curr = lists[i];
-
-            while (curr != NULL) {
-                arr.push_back(curr->val);
-
-                curr = curr->next;
-            }
+        if (lists.empty()) {
+            return nullptr;
         }
-        sort(arr.begin(), arr.end());
-
-        return convertArray2LL(arr);
+        ListNode* head = lists[0];
+        for (int i = 1; i < lists.size(); i++) {
+            head = merge2SortedLL(head, lists[i]);
+        }
+        return head;
     }
 };
