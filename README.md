@@ -11,11 +11,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sumitpandey48/DSA/tree/main/0155-min-stack/) | Medium |
+| [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0739-daily-temperatures](https://github.com/sumitpandey48/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -44,4 +46,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
