@@ -17,6 +17,7 @@
 | [0155-min-stack](https://github.com/sumitpandey48/DSA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sumitpandey48/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sumitpandey48/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sumitpandey48/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sumitpandey48/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/sumitpandey48/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
