@@ -2,20 +2,17 @@ class RecentCounter {
 public:
     queue<int> q;
 
-    RecentCounter() {
-    }
-    
+    RecentCounter() {}
+
     int ping(int t) {
         q.push(t);
-        int minTime = t - 3000;
 
-        while (!q.empty() && q.front() < minTime) {
+        while (!q.empty() && q.front() < t - 3000) {
             q.pop();
         }
         return q.size();
     }
 };
-
 
 /**
  * Your RecentCounter object will be instantiated and called as such:
