@@ -99,4 +99,16 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
