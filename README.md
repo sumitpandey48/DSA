@@ -24,6 +24,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0078-subsets](https://github.com/sumitpandey48/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sumitpandey48/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -49,6 +50,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
