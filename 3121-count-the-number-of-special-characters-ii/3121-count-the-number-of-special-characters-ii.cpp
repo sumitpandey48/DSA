@@ -9,20 +9,15 @@ public:
             if (islower(a)) {
                 mpl[a - 'a'] = i;
             } else {
-                if (mpu[a - 'A'] != -1) {
-                    continue;
-                } else {
+                if (mpu[a - 'A'] == -1) {
                     mpu[a - 'A'] = i;
                 }
             }
         }
         int ans = 0;
         for (int i = 0; i < 26; i++) {
-            if (mpl[i] != -1 && mpu[i] != -1) {
-                if (mpl[i] < mpu[i])
-                    ans++;
-                else
-                    continue;
+            if (mpl[i] != -1 && mpu[i] != -1 && mpl[i] < mpu[i]) {
+                ans++;
             }
         }
         return ans;
