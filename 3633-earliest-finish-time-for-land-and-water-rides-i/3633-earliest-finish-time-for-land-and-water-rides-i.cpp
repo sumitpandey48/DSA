@@ -12,16 +12,14 @@ public:
             int landFinish = landStartTime[i] + landDuration[i];
             for (int j = 0; j < m; j++) {
                 int waterStart = max(landFinish, waterStartTime[j]);
-                int finalFinish = waterStart + waterDuration[j];
-                ans = min(ans, finalFinish);
+                ans = min(ans, waterStart + waterDuration[j]);
             }
         }
         for (int i = 0; i < m; i++) {
             int waterFinish = waterStartTime[i] + waterDuration[i];
             for (int j = 0; j < n; j++) {
                 int landStart = max(waterFinish, landStartTime[j]);
-                int finalFinish = landStart + landDuration[j];
-                ans = min(ans, finalFinish);
+                ans = min(ans, landStart + landDuration[j]);
             }
         }
 
