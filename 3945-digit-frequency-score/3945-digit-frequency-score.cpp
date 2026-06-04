@@ -1,15 +1,10 @@
 class Solution {
 public:
     int digitFrequencyScore(int n) {
-        unordered_map<int, int> mpp;
-        while (n > 0) {
-            int d = n % 10;
-            mpp[d]++;
-            n /= 10;
-        }
         int ans = 0;
-        for (auto it : mpp) {
-            ans += it.first * it.second;
+        while(n){
+            ans+=n%10;
+            n/=10;
         }
         return ans;
     }
