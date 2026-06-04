@@ -31,6 +31,7 @@
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sumitpandey48/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/sumitpandey48/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sumitpandey48/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/sumitpandey48/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -65,6 +66,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitpandey48/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/sumitpandey48/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
