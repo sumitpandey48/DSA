@@ -4,6 +4,9 @@ public:
         int n = nums.size();
         int l = 0, ans = 0;
         int prod = 1;
+        if (k <= 0) {
+            return 0;
+        }
         for (int r = 0; r < n; r++) {
             prod *= nums[r];
             while (l <= r && prod >= k) {
