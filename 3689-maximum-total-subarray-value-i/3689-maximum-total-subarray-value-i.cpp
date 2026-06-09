@@ -5,9 +5,8 @@ public:
         int mini = INT_MAX;
 
         for (int i = 0; i < nums.size(); i++) {
-            int x = nums[i];
-            maxi = max(maxi, x);
-            mini = min(mini, x);
+            maxi = max(maxi, nums[i]);
+            mini = min(mini, nums[i]);
         }
         return 1L * k * (maxi - mini);
     }
