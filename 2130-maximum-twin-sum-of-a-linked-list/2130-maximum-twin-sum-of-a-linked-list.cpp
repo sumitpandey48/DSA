@@ -11,31 +11,44 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
+        // Find middle node
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != NULL && fast->next != NULL){
+            
+            slow = slow->next;
+            fast = fast->next->next;
         
-        stack<int>st;
+        }
+        ListNode *mid = slow;
 
-        ListNode* curr = head;
+        // Find reverse of 2nd half of LL
 
-        while(curr != NULL){
-            st.push(curr->val);
-            curr = curr->next;
+        ListNode* prev = NULL;
+        ListNode* nextNode = NULL;
+        while(mid != NULL){
+
+            nextNode = mid->next;
+            mid->next = prev;
+            prev = mid;
+            mid = nextNode;
+
         }
 
-        int N = st.size();
-        curr = head;
-
-        int cnt = 1;
+        // Find max ans
 
         int ans = 0;
+        ListNode *curr = head;
 
-        while(cnt <= N/2){
-
-            ans = max(ans,curr->val+st.top());
+        while(prev != NULL){
+            ans = max(ans,curr->val + prev->val);
             curr = curr->next;
-            st.pop();
-            cnt++;
+            prev = prev->next;
         }
         
         return ans;
+
     }
 };
