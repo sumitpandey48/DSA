@@ -93,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -247,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sumitpandey48/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sumitpandey48/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
