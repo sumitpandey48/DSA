@@ -203,6 +203,7 @@
 | [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/sumitpandey48/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/sumitpandey48/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sumitpandey48/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sumitpandey48/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
