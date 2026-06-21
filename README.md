@@ -25,6 +25,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0078-subsets](https://github.com/sumitpandey48/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sumitpandey48/DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -264,6 +265,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
