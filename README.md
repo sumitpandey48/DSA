@@ -29,6 +29,7 @@
 | [0078-subsets](https://github.com/sumitpandey48/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sumitpandey48/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/sumitpandey48/DSA/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sumitpandey48/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sumitpandey48/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -262,6 +264,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
