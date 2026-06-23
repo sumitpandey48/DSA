@@ -40,6 +40,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/sumitpandey48/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sumitpandey48/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sumitpandey48/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -259,6 +260,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sumitpandey48/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/sumitpandey48/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sumitpandey48/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -270,6 +272,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sumitpandey48/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
