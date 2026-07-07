@@ -229,6 +229,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/sumitpandey48/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/sumitpandey48/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sumitpandey48/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumitpandey48/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
