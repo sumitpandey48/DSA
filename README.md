@@ -15,6 +15,7 @@
 | [0739-daily-temperatures](https://github.com/sumitpandey48/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumitpandey48/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -263,6 +264,7 @@
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/sumitpandey48/DSA/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumitpandey48/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sumitpandey48/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sumitpandey48/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sumitpandey48/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
