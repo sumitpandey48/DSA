@@ -17,6 +17,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumitpandey48/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitpandey48/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/sumitpandey48/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@
 | [0682-baseball-game](https://github.com/sumitpandey48/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sumitpandey48/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/sumitpandey48/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/sumitpandey48/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/sumitpandey48/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/sumitpandey48/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -266,6 +268,7 @@
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumitpandey48/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sumitpandey48/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/sumitpandey48/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sumitpandey48/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sumitpandey48/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/sumitpandey48/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
