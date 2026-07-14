@@ -264,6 +264,7 @@
 | [0049-group-anagrams](https://github.com/sumitpandey48/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/sumitpandey48/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0784-letter-case-permutation](https://github.com/sumitpandey48/DSA/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumitpandey48/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -278,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/sumitpandey48/DSA/tree/main/0135-candy/) | Hard |
+| [0680-valid-palindrome-ii](https://github.com/sumitpandey48/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sumitpandey48/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sumitpandey48/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sumitpandey48/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -305,6 +307,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sumitpandey48/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/sumitpandey48/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumitpandey48/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
