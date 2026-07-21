@@ -168,6 +168,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sumitpandey48/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sumitpandey48/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -188,6 +189,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sumitpandey48/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
@@ -224,6 +226,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sumitpandey48/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sumitpandey48/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
