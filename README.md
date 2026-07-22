@@ -69,6 +69,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitpandey48/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/sumitpandey48/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sumitpandey48/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
@@ -100,6 +101,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitpandey48/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sumitpandey48/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -270,6 +272,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitpandey48/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/sumitpandey48/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sumitpandey48/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0784-letter-case-permutation](https://github.com/sumitpandey48/DSA/tree/main/0784-letter-case-permutation/) | Medium |
