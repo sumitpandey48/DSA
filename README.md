@@ -174,6 +174,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sumitpandey48/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitpandey48/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitpandey48/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sumitpandey48/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitpandey48/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
