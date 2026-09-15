@@ -75,6 +75,7 @@
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sumitpandey48/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitpandey48/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumitpandey48/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sumitpandey48/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sumitpandey48/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -107,6 +108,7 @@
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sumitpandey48/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitpandey48/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +287,7 @@
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumitpandey48/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sumitpandey48/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitpandey48/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sumitpandey48/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sumitpandey48/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sumitpandey48/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
