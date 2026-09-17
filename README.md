@@ -149,6 +149,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sumitpandey48/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitpandey48/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/sumitpandey48/DSA/tree/main/0198-house-robber/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -246,6 +247,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sumitpandey48/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/sumitpandey48/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/sumitpandey48/DSA/tree/main/0326-power-of-three/) | Easy |
@@ -381,4 +383,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitpandey48/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sumitpandey48/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
