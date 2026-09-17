@@ -37,6 +37,7 @@
 | [0090-subsets-ii](https://github.com/sumitpandey48/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/sumitpandey48/DSA/tree/main/0135-candy/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0198-house-robber](https://github.com/sumitpandey48/DSA/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sumitpandey48/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -149,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitpandey48/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/sumitpandey48/DSA/tree/main/0198-house-robber/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitpandey48/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sumitpandey48/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
