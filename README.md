@@ -52,6 +52,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
+| [1046-last-stone-weight](https://github.com/sumitpandey48/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sumitpandey48/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumitpandey48/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sumitpandey48/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -398,4 +399,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sumitpandey48/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/sumitpandey48/DSA/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
