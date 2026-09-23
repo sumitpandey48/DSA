@@ -55,6 +55,7 @@
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/sumitpandey48/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sumitpandey48/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumitpandey48/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sumitpandey48/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sumitpandey48/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -82,6 +83,7 @@
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sumitpandey48/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitpandey48/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumitpandey48/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sumitpandey48/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sumitpandey48/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -103,6 +105,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sumitpandey48/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sumitpandey48/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sumitpandey48/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
@@ -115,12 +118,14 @@
 | [0643-maximum-average-subarray-i](https://github.com/sumitpandey48/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitpandey48/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitpandey48/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sumitpandey48/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/sumitpandey48/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumitpandey48/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
