@@ -52,6 +52,7 @@
 | [0739-daily-temperatures](https://github.com/sumitpandey48/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitpandey48/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/sumitpandey48/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/sumitpandey48/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sumitpandey48/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -82,6 +83,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sumitpandey48/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sumitpandey48/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitpandey48/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -120,6 +122,7 @@
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sumitpandey48/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sumitpandey48/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sumitpandey48/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitpandey48/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -374,6 +377,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumitpandey48/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sumitpandey48/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/sumitpandey48/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sumitpandey48/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumitpandey48/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
