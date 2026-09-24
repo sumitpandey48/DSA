@@ -68,6 +68,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumitpandey48/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sumitpandey48/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumitpandey48/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumitpandey48/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sumitpandey48/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sumitpandey48/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/sumitpandey48/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -275,6 +276,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/sumitpandey48/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitpandey48/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/sumitpandey48/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumitpandey48/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitpandey48/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sumitpandey48/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumitpandey48/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
