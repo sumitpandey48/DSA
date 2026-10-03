@@ -3,8 +3,15 @@ public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false;
 
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        return s == t;
+        unordered_map<char,int>cntS;
+        unordered_map<char,int>cntT;
+        int i = 0;
+        while(i<s.size()){
+            cntS[s[i]]++;
+            cntT[t[i]]++;
+            i++;
+        }
+        
+        return cntS == cntT;
     }
 };
