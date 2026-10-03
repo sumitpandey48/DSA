@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitpandey48/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitpandey48/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitpandey48/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -174,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/sumitpandey48/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitpandey48/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/sumitpandey48/DSA/tree/main/0198-house-robber/) | Medium |
@@ -318,6 +320,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitpandey48/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/sumitpandey48/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -456,6 +459,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sumitpandey48/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sumitpandey48/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
